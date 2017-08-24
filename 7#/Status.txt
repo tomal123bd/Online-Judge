@@ -1,0 +1,3 @@
+Not Accepted.
+
+Result: time limit exceeded
